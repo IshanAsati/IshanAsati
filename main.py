@@ -1,5 +1,5 @@
 wrong = 0
-answer1 = str(input("The best teasm in the 22/23 season: "))
+answer1 = str(input("The best team in the 22/23 season: "))
 if answer1 == 'Manchester City':
     print("Correct answer")
 elif answer1 == 'Man City':
@@ -45,8 +45,6 @@ if answer5 == 'Blue Lock':
     print("Correct answer")
 elif answer5 == 'blue lock':
     print("Correct answer")
-elif answer5 == 'bluelock':
-    print("Correct Answer")
 else:
     wrong = wrong + 1
     Correct = 'Blue Lock'
@@ -56,4 +54,4 @@ if wrong == 0:
     print("Wow! You got nothing wrong")
 
 else: wrong > 0
-print("You got " + str(wrong) + "Questions Wrong")
+print("You got " + str(wrong) + " Questions Wrong")
