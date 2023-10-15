@@ -62,8 +62,8 @@ else:
     Correct = 'Blue Lock'
     print("Wrong Answer " + "Correct Answer is " + str(Correct))
 
-if wrong <= 0:
+if wrong == 0:
     print("Wow! You got nothing wrong")
 
-else: wrong <= 0
+else: wrong > 0
 print("You got " + str(wrong) + "Questions Wrong")
