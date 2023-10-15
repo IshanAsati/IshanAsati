@@ -30,16 +30,6 @@ else :
     Correct = 'Mbappe'
     print("Wrong Answer " + "Correct Answer is " + str(Correct))
 
-answer3 = str(input("Who was the best player in the 2022 World Cup Final?: "))
-if answer3 == 'Mbappe':
-    print("Correct answer")
-elif answer3 == 'mbappe':
-    print("Correct answer")
-else :
-    wrong = wrong + 1
-    Correct = 'Mbappe'
-    print("Wrong Answer " + "Correct Answer is " + str(Correct))
-
 answer4 = str(input("The team that Ronaldo plays in: "))
 if answer4 == 'Al Nassr':
     print("Correct answer")
