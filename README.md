@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshanAsati
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me - ishanlikecube@gmail.com
 
 <!---
