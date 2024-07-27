@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshanAsati
-- 👀 I’m interested in Python
+- 👀 I’m interested in HTML
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me - ishanlikecube@gmail.com
 
