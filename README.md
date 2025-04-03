@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshanAsati
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python VIA Udemy
+- 🌱 I’m currently learning Python VIA cs50
 - 📫 How to reach me - ishanlikecube@gmail.com
 - Good With AI/LLM
 <!---
